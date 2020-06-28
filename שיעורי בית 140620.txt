@@ -1,0 +1,11 @@
+1.Inheritance means that we can inherit fields and methods from one class to another.
+It is helpful because if we have some classes that have a similar fields and methods with a litlle changes
+we can use (inherit)the code that we already wrote and just add the changes that we want.
+
+2.An abstract class is a class that only have methods to be inheritated. Also an abstract class can't make objects.
+- An abstract method can only be used in an abstract class, and it does not have a body.
+ The body is provided by the derived class (inherited from).
+-why will we use abstrastion?
+To achieve security - hide certain details and only show the important details of an object.
+
+3.polymorphism refers to a programming languages ability to process objects differently depending on their data type or class.
